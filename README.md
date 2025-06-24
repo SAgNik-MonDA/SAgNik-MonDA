@@ -24,8 +24,10 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SAgNik-MonDA&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+[![Sagnik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SAgNik-MonDA&theme=dracula)](https://github.com/SAgNik-MonDA/github-readme-activity-graph)
+
+
+<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 
 <!-- Snake Game Repo View -->
 
