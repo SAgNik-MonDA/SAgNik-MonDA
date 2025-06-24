@@ -1,3 +1,9 @@
+<img 
+    src="https://user-images.githubusercontent.com/109351602/202650321-7f4da361-f98f-4345-8df4-adf352a11322.gif" 
+    alt="Developer working animation" 
+    style="max-width: 100%; height: auto; display: block; margin: auto">
+
+
 # 💫 Hi 👋, I'm Sagnik Mondal
 **A passionate Software Engineer || MERN stack Developer **
 
