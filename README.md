@@ -27,7 +27,7 @@
 [![Sagnik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SAgNik-MonDA&theme=dracula)](https://github.com/SAgNik-MonDA/github-readme-activity-graph)
 
 
-<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
+<h1 align='center'>⚡️<i>Never stop growing!/i>⚡️</h1>
 
 <!-- Snake Game Repo View -->
 
