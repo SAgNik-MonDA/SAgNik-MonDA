@@ -7,7 +7,7 @@
 # 💫 Hi 👋, I'm Sagnik Mondal
 **A passionate Software Engineer || MERN stack Developer **
 
-- 🌱 I’m currently learning: MERN Stack Development, Node.js, Express.js.
+- 🌱 I’m currently learning: MERN Stack Development , Node.js, Express.js.
 
 🎓 Education: Pursuing B.Tech in Information Technology.
 
