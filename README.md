@@ -12,7 +12,7 @@
 🎓 Education: Pursuing B.Tech in Information Technology.
 
 📫 How to reach me: sagnikmondal011@gmail.com 
-<img  align="right" src="https://cdn.pixabay.com/animation/2022/09/07/08/55/08-55-43-_512.gif" width="350">
+<img  align="right" src="https://cdn.pixabay.com/animation/2022/09/07/08/55/08-55-43-_512.gif" width="300">
 
  ### Connect with me:
 
