@@ -27,10 +27,11 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SAgNik-MonDA&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=SAgNik-MonDA&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SAgNik-MonDA&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=SAgNik-MonDA&theme=neon&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=SAgNik-MonDA&theme=neon&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SAgNik-MonDA&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 <img  align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWRhZDFzazJ6YW00YW8zcWh3ZHE4MzFqaHN6bXVwNW10bzV0eTVzZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jdPMeyv9rn0hZHh8n9/giphy.gif" width="200">
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SAgNik-MonDA&theme=radical&no-frame=false&no-bg=true&margin-w=4)
