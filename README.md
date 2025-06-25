@@ -17,6 +17,8 @@
  ### Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/sagnik-mondal-118b08311)
+<br>
+<img align="right" src="https://profile-counter.glitch.me/{SAgNik-MonDA}/count.svg" alt="leo-soumyajit :: Visitor's Count" />
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/sagnik.mondalbabai.7?mibextid=ZbWKwL) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sagnik_mondal_12) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sagnik-mondal-118b08311?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sagnikmondal011@gmail.com) 
@@ -27,9 +29,9 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SAgNik-MonDA&theme=neon&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=SAgNik-MonDA&theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SAgNik-MonDA&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=SAgNik-MonDA&theme=neon&hide_border=false&include_all_commits=true&count_private=false&show_icons=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=SAgNik-MonDA&theme=neon&hide_border=false&show_icons=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SAgNik-MonDA&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=compact&show_icons=true&locale=en)
 <img  align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWRhZDFzazJ6YW00YW8zcWh3ZHE4MzFqaHN6bXVwNW10bzV0eTVzZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jdPMeyv9rn0hZHh8n9/giphy.gif" width="200">
 
 
@@ -38,6 +40,9 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SAgNik-MonDA&icon=0&color=0)](https://visitcount.itsvg.in)
+
+[![Sagnik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SAgNik-MonDA&theme=dracula)](https://github.com/SAgNik-MonDA/github-readme-activity-graph)
+
 
 <h1 align='center'>🌟<i>Never stop growing!</i>🌟</h1>
 
