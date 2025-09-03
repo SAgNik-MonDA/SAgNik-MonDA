@@ -4,7 +4,7 @@
     style="max-width: 100%; height: auto; display: block; margin: auto">
 
 
-# 💫  Hi 👋 , I'm Sagnik Mondal
+# 💫 Hi 👋 , I'm Sagnik Mondal
 ***  A passionate Software Engineer || MERN stack Developer ***
 
 - 🌱  I’m currently learning: MERN Stack Development , Node.js, Express.js.
